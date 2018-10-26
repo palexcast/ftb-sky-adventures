@@ -5,7 +5,7 @@
 docker run -itd \
 -p 25565:25565 -p 25565:25565/udp \
 -v /home/skyblock/saves/world:/minecraft/world \
---name ftb ftb
+--name ftb palexcast/ftb-sky-adventures
 ```
 
 ## Override settings.sh
@@ -23,7 +23,7 @@ docker run -itd \
 -p 25565:25565 -p 25565:25565/udp \
 -v /home/skyblock/saves/world:/minecraft/world \
 -v /{my-folder-path}/settings-local.sh:/minecraft/settings-local.sh \
---name ftb ftb
+--name ftb palexcast/ftb-sky-adventures
 ```
 
 
