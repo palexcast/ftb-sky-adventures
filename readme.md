@@ -1,5 +1,7 @@
 # FTB Sky Adventures Server Docker Image
 
+Remember to always backup your world before upgrading!
+
 I have no affiliation with this modpack or the creators, 
 and am only doing this for the enjoyment of other people who enjoy this modpack.
 
