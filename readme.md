@@ -1,5 +1,11 @@
 # FTB Sky Adventures Server Docker Image
 
+I have no affiliation with this modpack or the creators, 
+and am only doing this for the enjoyment of other people who enjoy this modpack.
+
+## Docker
+https://hub.docker.com/r/palexcast/ftb-sky-adventures/
+
 ## Running the docker image
 ```
 docker run -itd \
