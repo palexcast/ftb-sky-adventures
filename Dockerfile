@@ -3,7 +3,7 @@ FROM java:8-jre
 MAINTAINER Patricio Alexander Castillo (https://github.com/palexcast)
 
 # Setup args
-ARG URI=https://www.feed-the-beast.com/projects/ftb-sky-adventures/files/2631176/download
+ARG URI=https://www.feed-the-beast.com/projects/ftb-sky-adventures/files/2638383/download
 
 # Updating container
 RUN apt-get update && \
